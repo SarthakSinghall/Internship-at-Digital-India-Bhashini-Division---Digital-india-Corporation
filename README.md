@@ -134,9 +134,3 @@ This internship gave me valuable hands-on exposure to modern DevOps technologies
 
 ---
 
-## 📫 Contact
-
-**Sarthak Singhal**  
-📧 sarthaksinghal.dibd@gmail.com  
-📱 +91 7454843535  
-🌐 [LinkedIn](https://www.linkedin.com/in/sarthak-singhal) *(optional if you want to include it)*
